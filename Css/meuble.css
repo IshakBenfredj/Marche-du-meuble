@@ -152,7 +152,7 @@ header a.contact {
 }
 @media (max-width:420px) {
     header .nav li a{
-        font-size: 13px;
+        font-size: 15px;
         padding: 0 10px;
     }
 }
