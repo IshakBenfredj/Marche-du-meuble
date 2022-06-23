@@ -126,7 +126,7 @@ header a.contact {
         font-size: 14px;
     }
 }
-@media (max-width:641px) {
+@media (max-width:655px) {
     header{
         justify-content: center;
         padding: 0;
@@ -147,7 +147,7 @@ header a.contact {
 }
 @media (max-width:474px) {
     header .nav li a{
-        font-size: 15px;
+        font-size: 14px;
     }
 }
 @media (max-width:420px) {
