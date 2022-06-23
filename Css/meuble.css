@@ -149,6 +149,11 @@ header a.contact {
         font-size: 14px;
     }
 }
+@media (max-width:420px) {
+    header .nav li a{
+        font-size: 13px;
+    }
+}
 /* End Header */
 
 /* Start Landing */
